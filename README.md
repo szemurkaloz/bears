@@ -15,4 +15,5 @@ $ git remote add : helyi gitet összekötjük a távoli tárhelyen lévővel  ne
 $ git remote set-url git@github.com:USERNAME/REPOSITORY.git
 $ git remote rename :param: réginév újnév
 $ git push orgin our-feature
+még egy változás
 
